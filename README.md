@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack | Data Structures and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://sachinsingh3232.github.io/Portfolio/](https://sachinsingh3232.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://sachinsingh32.vercel.app/](https://sachinsingh32.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
