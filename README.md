@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Singh</h1>
 <h3 align="center">Full Stack MERN Developer | CSE@HBTU'24</h3>
 
-- 🌱 I’m currently learning **MERN Stack | Data Structures and Algorithm**
+- 🌱 I’m currently learning **Typescript | NextJs | Mysql |**
 
 - 👨‍💻 All of my projects are available at [https://sachinsingh32.vercel.app/](https://sachinsingh32.vercel.app/)
 
